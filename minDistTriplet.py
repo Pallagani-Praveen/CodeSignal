@@ -29,5 +29,5 @@ def minDistTriplet(a, b, c):
         
     return 2*minDist # 2*(x-min(y,z))
     
-minDistTriplet([4, 30],[6, 12, 20],[10, 37])
+print('Min Possible dist :',minDistTriplet([4, 30],[6, 12, 20],[10, 37]))
             
